@@ -1,4 +1,4 @@
-package com.helloworld;
+package com.activityTest;
 
 import java.io.File;
 import java.io.FileOutputStream;

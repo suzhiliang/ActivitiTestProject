@@ -1,4 +1,4 @@
-package com.helloworld;
+package com.activityTest;
 
 import java.io.InputStream;
 import java.util.List;
@@ -13,6 +13,11 @@ import org.activiti.engine.runtime.ProcessInstance;
 import org.activiti.engine.task.Task;
 import org.junit.Test;
 
+/**
+ * 流程实例，任务执行
+ * @author 苏志亮
+ *
+ */
 public class ProcessInstanceTest {
 	ProcessEngine processEngine = ProcessEngines.getDefaultProcessEngine();
 

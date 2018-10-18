@@ -1,4 +1,4 @@
-package com.helloworld;
+package com.activityTest;
 
 import java.util.List;
 
@@ -9,6 +9,11 @@ import org.activiti.engine.runtime.ProcessInstance;
 import org.activiti.engine.task.Task;
 import org.junit.Test;
 
+/**
+ * hellowrdProcess
+ * @author 苏志亮
+ *
+ */
 public class HelloworldProcess {
 	private ProcessEngine processEngine = ProcessEngines.getDefaultProcessEngine();
 
